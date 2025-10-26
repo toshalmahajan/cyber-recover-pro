@@ -69,6 +69,8 @@ Interactive Mode Features:
 
 🧪 Test Data Creation - Generate forensic samples
 
+
+
 🔧 Supported File Types
 Category	Formats	Signatures
 Images	JPEG, PNG, GIF, BMP	FFD8FFE0, 89504E47, 47494638, 424D
@@ -77,6 +79,9 @@ Archives	ZIP, RAR, 7-Zip	504B0304, 52617221, 377ABCAF
 Audio	MP3	494433, FFFB
 Executables	EXE, ELF, Java Class	4D5A, 7F454C46, CAFEBAFE
 Video	AVI, MKV	52494646, 1A45DFA3
+
+
+
 🏗️ Project Structure
 text
 cyber-recover-pro/
@@ -89,6 +94,9 @@ cyber-recover-pro/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 └── LICENSE                     # MIT License
+
+
+
 🎯 Use Cases
 Digital Forensics - Evidence recovery from disk images
 
@@ -210,4 +218,5 @@ Thanks to the cybersecurity community for inspiration and guidance
 "Recovering digital evidence, one signature at a time" 🔍
 
 </div>
+
 
